@@ -4,7 +4,9 @@ A modern shopping cart built with React and Tailwind CSS.
 
 ## 📸 Preview
 ![Preview](carrito_compras/.github/screenshot.png)
-![Preview](carrito_compras/.github/screenshot2.png)
+<p align="center">
+  <img src="carrito_compras/.github/screenshot2.png" alt="Preview" width="600">
+</p>
 
 ## ✨ Features
 
